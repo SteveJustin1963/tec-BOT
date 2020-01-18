@@ -1,2 +1,2 @@
-# 16.7-tecBOT
-A tecBOT version of A.W.E.SO.M.-O (South Park). 
+# tec-BOT
+A.W.E.SO.M.-O controlled by tec-BRAIN,  
