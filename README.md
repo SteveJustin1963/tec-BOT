@@ -1,7 +1,5 @@
 # tec-BOT
-A.W.E.SO.M.-O controlled by tec-BRAIN,  
-
-A project to make a tecBOT, placed into a box simialr to AWESOM-O 
+A project to make a tec-BOT, placed into a box simialr to AWESOM-O 
 
 
 ## Abstract
@@ -9,6 +7,7 @@ A project to make a tecBOT, placed into a box simialr to AWESOM-O
 ## Introduction 
 
 ## Observe and Question 
+There are enough addons to make a robot.
 
 ## Theory - testable
 
