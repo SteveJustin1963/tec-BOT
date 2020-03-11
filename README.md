@@ -4,4 +4,6 @@ A project to make tec-BOT, by boxing tec-BRAIN with addons looking like AWESOM-O
 
 https://en.wikipedia.org/wiki/Awesom-O  
 
+![](https://github.com/SteveJustin1963/tec-BOT/blob/master/pics/awesom-0-bot.png)
+
 ![](https://github.com/SteveJustin1963/tec-BOT/blob/master/pics/tecBOT-HEAD.png)
