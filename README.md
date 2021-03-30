@@ -1,6 +1,6 @@
 # tec-BOT
 
-A project to make tec-BOT, by boxing tec-BRAIN and tec-FACE with addons looking like AWESOM-O less Cartman.
+A project to replace Cartman with the tec1 and make a tec-BOT with tec-BRAIN and tec-FACE with other addons; looks like AWESOM-O.
 
 https://en.wikipedia.org/wiki/Awesom-O  
 
