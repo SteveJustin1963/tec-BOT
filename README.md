@@ -1,27 +1,14 @@
 # tec-BOT
 
-A project to replace Cartman with the tec1 and make a tec-BOT with tec-BRAIN and tec-FACE with other addons; looks like AWESOM-O.
-
-https://en.wikipedia.org/wiki/Awesom-O  
+A project to make a robot like Southparks AWESOM-O made by Cartman. tec1+ tec-BOT + tec-BRAIN + tec-FACE etc..
 
 ![](https://github.com/SteveJustin1963/tec-BOT/blob/master/pics/awesom-0-bot.png)
 
- 
+there are enough addons now to make a robot, maybe
 
+## combine the parts 
+use some/all parts make the bot
 
-## Abstract
-
-## Introduction 
-
-## Observe and Question 
-Are there enough addons to make a robot now? Never!
-
-## Theory - testable
-
-## Prediction
-
-## Method 
-All thes parts have to work before this project comes together, lol
 * tec-BRAIN 
 * tec-IO, talks to outside world via interfaces
 * tec-AI, Forth code intelligence 
@@ -35,22 +22,8 @@ All thes parts have to work before this project comes together, lol
 * tec-ROR, real time object recognition
 * tec-EAR, pair of ears using condenser mic and ADC
 
-## Test Journal
-
-## Report, figures, tables
-
-## Results
-
-## Discuss objectively, scientific significance 
-
-## Conclusion 
-
-## Acknowledgements
-
 ## References
 
+https://en.wikipedia.org/wiki/Awesom-O  
+
 https://www.instructables.com/Multipurpose-Mobile-Manipulator-Mk-1/
-
-
-
-## Iterate, new hypotheses or predictions
