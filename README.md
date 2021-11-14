@@ -1,6 +1,6 @@
 # tec-BOT
 
-A project to make a robot like Southparks AWESOM-O made by Cartman. tec1+ tec-BOT + tec-BRAIN + tec-FACE etc..
+A project to make a robot like Southparks AWESOM-O 4000 made by Cartman. tec1+ tec-BOT + tec-BRAIN + tec-FACE etc..
 
 ![](https://github.com/SteveJustin1963/tec-BOT/blob/master/pics/awesomeo-kidrobot-southpark-mindzai_2.jpg)
 
