@@ -2,7 +2,7 @@
 
 A project to make a robot like Southparks AWESOM-O made by Cartman. tec1+ tec-BOT + tec-BRAIN + tec-FACE etc..
 
-![](https://github.com/SteveJustin1963/tec-BOT/blob/master/pics/awesom-0-bot.png)
+![](https://github.com/SteveJustin1963/tec-BOT/blob/master/pics/awesomeo-kidrobot-southpark-mindzai_2.jpg)
 
 there are enough addons now to make a robot, maybe
 
@@ -27,3 +27,7 @@ use some/all parts make the bot
 https://en.wikipedia.org/wiki/Awesom-O  
 
 https://www.instructables.com/Multipurpose-Mobile-Manipulator-Mk-1/
+
+
+
+![](https://github.com/SteveJustin1963/tec-BOT/blob/master/pics/awesom-0-bot.png)
