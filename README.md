@@ -22,12 +22,12 @@ use some/all parts make the bot
 * tec-ROR, real time object recognition
 * tec-EAR, pair of ears using condenser mic and ADC
 
+![](https://github.com/SteveJustin1963/tec-BOT/blob/master/pics/awesom-0-bot.png)
+
+
 ## References
 
 https://en.wikipedia.org/wiki/Awesom-O  
 
 https://www.instructables.com/Multipurpose-Mobile-Manipulator-Mk-1/
 
-
-
-![](https://github.com/SteveJustin1963/tec-BOT/blob/master/pics/awesom-0-bot.png)
