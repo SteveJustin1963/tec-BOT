@@ -4,8 +4,6 @@ A project to make a robot like Southparks AWESOM-O 4000 made by Cartman. tec1+ t
 
 https://www2.zoechip.com/watch-tv/south-park-39503.1607789
 
-![](https://github.com/SteveJustin1963/tec-BOT/blob/master/pics/awesomeo-kidrobot-southpark-mindzai_2.jpg)
-
 there are enough addons now to make a robot, maybe
 
 ## combine the parts 
