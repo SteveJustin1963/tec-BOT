@@ -1,6 +1,6 @@
 # tec-BOT
 
-A project to make a robot like Southparks AWESOM-O 4000 made by Cartman. tec1+ tec-BOT + tec-BRAIN + tec-FACE etc..
+A project to make a robot like Southparks AWESOM-O made by Cartman. tec1+ tec-BOT + tec-BRAIN + tec-FACE etc..
 
 https://www2.zoechip.com/watch-tv/south-park-39503.1607789
 
