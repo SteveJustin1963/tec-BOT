@@ -27,7 +27,8 @@ use some/all parts make the bot
 
 ## References
 
-https://en.wikipedia.org/wiki/Awesom-O  
-
-https://www.instructables.com/Multipurpose-Mobile-Manipulator-Mk-1/
+- https://en.wikipedia.org/wiki/Awesom-O
+- https://www.instructables.com/Multipurpose-Mobile-Manipulator-Mk-1/
+- RGB2 Regular Show - Season 4 - Episode 19 that my television, https://www3.zoechip.com/watch-tv/regular-show-38515.5024197
+- 
 
