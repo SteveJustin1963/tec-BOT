@@ -1,13 +1,10 @@
 # tec-BOT
 
-A project to make a robot like Southparks AWESOM-O made by Cartman. tec1+ tec-BOT + tec-BRAIN + tec-FACE etc..
+Southpark's AWESOM-O is an AI robot created by Cartman that is designed to be his best friend. However, things quickly go awry when the robot begins to develop sentience and a will of its own. The robot then proceeds to torment Cartman with a series of pranks and embarrassing revelations, leading to a final showdown between the two. This project is to replace Cartman and make robot drivern by a combined project using tec-1, tec-BOT, tec-BRAIN, tec-FACE, etc..
 
-https://www2.zoechip.com/watch-tv/south-park-39503.1607789
-
-there are enough addons now to make a robot, maybe
+ 
 
 ## combine the parts 
-use some/all parts make the bot
 
 * tec-BRAIN 
 * tec-IO, talks to outside world via interfaces
@@ -27,6 +24,7 @@ use some/all parts make the bot
 
 ## References
 
+- https://www2.zoechip.com/watch-tv/south-park-39503.1607789
 - https://en.wikipedia.org/wiki/Awesom-O
 - https://www.instructables.com/Multipurpose-Mobile-Manipulator-Mk-1/
 - RGB2 Regular Show - Season 4 - Episode 19 that my television, https://www3.zoechip.com/watch-tv/regular-show-38515.5024197
