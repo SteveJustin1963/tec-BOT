@@ -3,7 +3,7 @@
 ![](https://github.com/SteveJustin1963/tec-BOT/blob/master/pics/butt1.png)
 
 
-![](https://github.com/SteveJustin1963/tec-BOT/blob/master/pics/butt2.png)
+
 
 
 Southpark's AWESOM-O is an AI robot created by Cartman that is designed to be his best friend. However, things quickly go awry when the robot begins to develop sentience and a will of its own. The robot then proceeds to torment Cartman with a series of pranks and embarrassing revelations, leading to a final showdown between the two. This project is to replace Cartman and make robot drivern by a combined project using tec-1, tec-BOT, tec-BRAIN, tec-FACE, etc..
