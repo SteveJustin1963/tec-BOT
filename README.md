@@ -28,6 +28,7 @@ Southpark's AWESOM-O is an AI robot created by Cartman that is designed to be hi
 ## References
 
 - https://www2.zoechip.com/watch-tv/south-park-39503.1607789
+- https://www.southparkstudios.com/episodes/ktqvb2/south-park-awesom-o-season-8-ep-5  use vpn like in opera
 - https://en.wikipedia.org/wiki/Awesom-O
 - https://www.instructables.com/Multipurpose-Mobile-Manipulator-Mk-1/
 - RGB2 Regular Show - Season 4 - Episode 19 that my television, https://www3.zoechip.com/watch-tv/regular-show-38515.5024197
