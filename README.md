@@ -34,3 +34,8 @@ Southpark's AWESOM-O is an AI robot created by Cartman that is designed to be hi
 - RGB2 Regular Show - Season 4 - Episode 19 that my television, https://www3.zoechip.com/watch-tv/regular-show-38515.5024197
 - 
 
+![image](https://github.com/user-attachments/assets/916c6d11-feda-46e9-b8d8-c3609f2d0197)
+
+![image](https://github.com/user-attachments/assets/02b3e7b3-a5ed-4074-abd8-2f91d30d5726)
+
+
