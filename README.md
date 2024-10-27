@@ -25,17 +25,21 @@ Southpark's AWESOM-O is an AI robot created by Cartman that is designed to be hi
 * tec-ROR, real time object recognition
 * tec-EAR, pair of ears using condenser mic and ADC
 
-## References
+### construction
+- using cheap strong carboard would be ideal can reinfoece the inside with some wood strips
+- we can mount the tec1 on the outside
+- we can add arms, eys 8x8 emo mouth etc
+- feet are too ahrd so use a 2 motor wheels and one free pivot wheel
+- 
+
+![robert-lancaster-a-w-e-s-o-m-e-o-exp](https://github.com/user-attachments/assets/db5679bc-6988-4b43-8769-09899a1ecd56)
+
+![awesom-0-bot](https://github.com/user-attachments/assets/7c4c871e-17a7-411d-9a20-47b0782d3006)
+
+## Ref 
 
 - https://www2.zoechip.com/watch-tv/south-park-39503.1607789
 - https://www.southparkstudios.com/episodes/ktqvb2/south-park-awesom-o-season-8-ep-5  use vpn like in opera
 - https://en.wikipedia.org/wiki/Awesom-O
 - https://www.instructables.com/Multipurpose-Mobile-Manipulator-Mk-1/
 - RGB2 Regular Show - Season 4 - Episode 19 that my television, https://www3.zoechip.com/watch-tv/regular-show-38515.5024197
-- 
-
-![image](https://github.com/user-attachments/assets/916c6d11-feda-46e9-b8d8-c3609f2d0197)
-
-![image](https://github.com/user-attachments/assets/02b3e7b3-a5ed-4074-abd8-2f91d30d5726)
-
-
