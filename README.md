@@ -1,8 +1,8 @@
 # tec-ROBOT
  
 
-
-
+![robert-lancaster-a-w-e-s-o-m-e-o-exp](https://github.com/user-attachments/assets/db5679bc-6988-4b43-8769-09899a1ecd56)
+![awesom-0-bot](https://github.com/user-attachments/assets/7c4c871e-17a7-411d-9a20-47b0782d3006)
 
 
 Southpark's AWESOM-O is an AI robot created by Cartman that is designed to be his best friend. However, things quickly go awry when the robot begins to develop sentience and a will of its own. The robot then proceeds to torment Cartman with a series of pranks and embarrassing revelations, leading to a final showdown between the two. This project is to replace Cartman and make robot drivern by a combined project using tec-1, tec-BOT, tec-BRAIN, tec-FACE, etc..
@@ -42,9 +42,6 @@ Southpark's AWESOM-O is an AI robot created by Cartman that is designed to be hi
 
 
 
-![robert-lancaster-a-w-e-s-o-m-e-o-exp](https://github.com/user-attachments/assets/db5679bc-6988-4b43-8769-09899a1ecd56)
-
-![awesom-0-bot](https://github.com/user-attachments/assets/7c4c871e-17a7-411d-9a20-47b0782d3006)
 
 ## Ref 
 
