@@ -16,15 +16,16 @@ Southpark's AWESOM-O is an AI robot created by Cartman that is designed to be hi
 - we can mount the tec1 on the outside
 - we can add arms, eys 8x8 emo mouth etc
 - feet is a simple flat foot biped walker
-- https://www.youtube.com/watch?v=KXxw9Ts4iJY
-- https://www.youtube.com/watch?app=desktop&v=ZTTDk_jHv5A
-- 
+
+![image](https://github.com/user-attachments/assets/12931b3b-db21-49ad-8a46-5f1aab7ada4b)
+![image](https://github.com/user-attachments/assets/64297841-ad5f-4d5b-a4da-9593cdb9ee91)
+![image](https://github.com/user-attachments/assets/2d8934dd-8c76-4a77-8c88-8fa80a018857)
 
 ![image](https://github.com/user-attachments/assets/9bb99866-192a-4918-bc9b-74bc18fea7aa)
 
+![image](https://github.com/user-attachments/assets/f0328b57-66f1-4e0a-bb9d-cc9746f89da1)
 
-- 
-- 
+ 
 
 ### use parts from  
 - tec-BIPED
