@@ -1,6 +1,5 @@
 # tec-ROBOT
-
-![](https://github.com/SteveJustin1963/tec-BOT/blob/master/pics/butt1.png)
+ 
 
 
 
