@@ -9,27 +9,31 @@ Southpark's AWESOM-O is an AI robot created by Cartman that is designed to be hi
 
  
 
-## combine the parts 
 
-* tec-BRAIN 
-* tec-IO, talks to outside world via interfaces
-* tec-AI, Forth code intelligence 
-* tec-APUS for maths to help tec-AI
-* tec-SPEECH, speech module using SP0256A-AL2
-* tec-PAS, plasma arc speaker for extra spooky sound
-* tec-8x8 for lips, emojis and images
-* tec-LACE for electroencephalography
-* Green bug eyed alien face
-* tec-EYE, pair of ADNS2610 eyes
-* tec-ROR, real time object recognition
-* tec-EAR, pair of ears using condenser mic and ADC
 
 ### construction
 - using cheap strong carboard would be ideal can reinfoece the inside with some wood strips
 - we can mount the tec1 on the outside
 - we can add arms, eys 8x8 emo mouth etc
-- feet are too ahrd so use a 2 motor wheels and one free pivot wheel
+- feet is a simple flat foot biped walker https://github.com/SteveJustin1963/tec-BIPED
 - 
+
+### use parts from  
+- tec-BIPED
+- tec-BRAIN
+- tec-IO, talks to outside world via interfaces
+- tec-AI, Forth code intelligence
+- tec-APUS for maths to help tec-AI
+- tec-SPEECH, speech module using SP0256A-AL2
+- tec-PAS, plasma arc speaker for extra spooky sound
+- tec-8x8 for lips, emojis and images
+- tec-LACE for electroencephalography
+- Green bug eyed alien face
+- tec-EYE, pair of ADNS2610 eyes
+- tec-ROR, real time object recognition
+- tec-EAR, pair of ears using condenser mic and ADC
+
+
 
 ![robert-lancaster-a-w-e-s-o-m-e-o-exp](https://github.com/user-attachments/assets/db5679bc-6988-4b43-8769-09899a1ecd56)
 
